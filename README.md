@@ -35,13 +35,21 @@
 ### 6. 전체 프로세스
 
 **Full Text 추출**  
+---
 ![full text 추출 전체 프로세스](./png/full_text추출_전체프로세스.png)
-
+---
 **모든 Task**  
+---
 ![task 전체 프로세스](./png/Task_전체프로세스.png)
-
-##### 백엔드 전체 구조
+---
+**백엔드 전체 구조**
 ![백엔드 전체 구조](./png/백엔드_전체구조.png)
-
+---
 ### 7. 기술 스택
-OCR, PyMuPDF, OpenCV, HDFS, Nexus, pandas, numpy
+- OCR
+- PyMuPDF
+- OpenCV
+- HDFS
+- Nexus
+- pandas
+- numpy
